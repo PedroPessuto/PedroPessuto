@@ -17,15 +17,26 @@ Desenvolvedor em projeto de iniciação tecnológica para determinar a maturidad
 
 ## 📌  **App para Auxiliar Crianças com Implante Coclear** | Sapear  
 
-Aplicativo iOS desenvolvido com SwiftUI e tecnologias de persistência de dados, criado para auxiliar crianças no aprendizado de sons e alfabetização de forma inclusiva, com recursos de acessibilidade.
+Aplicativo iOS desenvolvido com SwiftUI, AVFoundation e CoreData, criado para auxiliar crianças no aprendizado de sons e alfabetização de forma inclusiva, com recursos de acessibilidade.
 
-<img width="600" alt="Tela do Paciente" src="https://github.com/user-attachments/assets/d7e92d31-4803-42d6-89df-88708556861d">
+<img width="600" alt="Sapear AppStore" src="https://github.com/user-attachments/assets/d7e92d31-4803-42d6-89df-88708556861d">
 
 ## 📌  **Desenvolvimento de BOTS para Webscraping**
 
 Projeto de automação para operação em larga escala de bots para web scraping, com funcionalidades de preenchimento automático de formulários e download de arquivos, usando Python assíncrono, Playwright e técnicas avançadas para automação e superação de captchas.
 
+## 📌  **Software para Gestão de Consultas Veterinárias** | Meili  
 
+Aplicativo desenvolvido para iPhone e iPad, destinado a veterinários volantes, oferecendo praticidade e agilidade no atendimento. Construído com SwiftUI, CloudKit e SwiftData.
+
+<img width="600" alt="Meili AppStore" src="https://github.com/user-attachments/assets/bb22da89-1e2a-4106-90b2-e9567793aba7">
+
+
+## 📌  **Jogo Educacional para Matemática Básica** | Falling Math  
+
+Jogo educacional focado no ensino de matemática para crianças, estimulando cálculos rápidos. Desenvolvido com SpriteKit, SwiftUI, AVFoundation e SwiftData.
+
+<img width="600" alt="Meili AppStore" src="https://github.com/user-attachments/assets/ce9ff090-5343-41c8-a1c8-91d31a983ab8">
 
 ---
 
