@@ -58,7 +58,7 @@ Jogo educacional focado no ensino de matemática para crianças, estimulando cá
 <a href="https://github.com/PedroPessuto/FallingMath" target="_blank">Link do Projeto</a>
 
 
-## 📌  **Jogo Educacional para Matemática Básica** | Optimi
+## 📌  **Sistema de Organização para Times de Desenvolvimento** | Optimi
 
 Programa colaborativo para MacOS e iPadOS projetado para equipes de desenvolvimento, que conecta designers e programadores com o propósito de melhorar a organização de tarefas, o fluxo de trabalho e a gestão de demandas do projeto, utilizando SwiftUI e CloudKit.
 
