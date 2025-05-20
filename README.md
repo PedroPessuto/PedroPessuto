@@ -8,21 +8,6 @@
 
 # 🌟 Principais Projetos
 
-## 📌  **Site Responsivo com Formulário Dinâmico** | Vai de Certidão
-
-Desenvolvimento de site responsivo com Next.js, React, Node.js, Tailwind CSS e ShadCN. A implementação de um formulário dinâmico, que adapta os campos de acordo com as opções selecionadas pelo usuário, foi realizada com React Hook Form e Zod. No backend, o Supabase foi utilizado como uma ferramenta essencial no processo de autenticação e gerencia de dados.
-
-<img width="300" alt="home" src="https://github.com/user-attachments/assets/4061624e-54ef-440b-a4b9-e73a99b2645c">
-<img width="300" alt="login" src="https://github.com/user-attachments/assets/3ffe223d-60a5-4fc7-8b04-75e913236127">
-<img width="300" alt="novo pedido" src="https://github.com/user-attachments/assets/a3d6a6a1-9579-484e-a580-2d064ff378e8">
-<img width="300" alt="etapa do pedido" src="https://github.com/user-attachments/assets/b3e368c5-a657-4b06-b95e-2e1a889d9e45">
-<img width="300" alt="campos dinâmicos" src="https://github.com/user-attachments/assets/752f418b-50c5-41f9-bd19-a11fbc39e15b">
-<img width="300" alt="meus pedidos" src="https://github.com/user-attachments/assets/46999a20-fb57-4663-a6c1-c75bd2a74a7a">
-
-## 📌  **Desenvolvimento de BOTS para Webscraping** | Vai de Certidão
-
-Projeto de automação para operação em larga escala de bots para web scraping, com funcionalidades de preenchimento automático de formulários e download de arquivos, usando Python assíncrono, Playwright e técnicas avançadas para automação e superação de captchas.
-
 ## 📌  **App para Auxiliar Crianças com Implante Coclear** | Sapear  
 
 Aplicativo iOS desenvolvido com SwiftUI, AVFoundation e CoreData, criado para auxiliar crianças no aprendizado de sons e alfabetização de forma inclusiva, com recursos de acessibilidade.
