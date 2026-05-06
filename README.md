@@ -19,7 +19,7 @@ Sou desenvolvedor de software com foco em sistemas full-stack e no ecossistema i
 
 ### 🌟 Projetos em Destaque
 
-#### [Vai de Certidão](https://github.com/PedroPessuto) | Automação Industrial
+#### [Vai de Certidão](https://github.com/PedroPessuto) | Plataforma Web e Automação 
 *O repositório principal é privado, mas a arquitetura envolve:*
 - **Techs:** Python Assíncrono, Playwright, Arquitetura de Bots Concorrentes.
 - **Métrica:** Otimização de fluxo em 10x e processamento de **20.000+ documentos**.
